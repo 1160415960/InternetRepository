@@ -6,7 +6,7 @@ import java.util.LinkedList;
 public class MyList {
 
 	public static void main(String[] args) {
-		
+		String string = "123";
 		final int NUM=1000000;
 		ArrayList<Integer> strArr = new ArrayList<Integer>();
 		LinkedList<Integer> strLink = new LinkedList<Integer>();
